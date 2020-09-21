@@ -78,7 +78,7 @@ public class Queue {
 	
 	//Check if Queue is Empty
 	public boolean isEmpty() {
-		return sizeOfQueue == 0 ? true : false;
+		return sizeOfQueue == 0;
 	}
 	
 	
